@@ -1,3 +1,6 @@
+The site is live at https://slack-541ac.web.app/room/q9MAhM40DhuB5gGiXtrO
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
