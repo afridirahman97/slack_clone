@@ -1,5 +1,8 @@
-The site is live at https://slack-541ac.web.app/room/q9MAhM40DhuB5gGiXtrO
+# Slack-Clone
 
+### [Click Here To View The Live Site](https://slack-541ac.web.app/room/q9MAhM40DhuB5gGiXtrO)
+
+![Twitter Clone](https://firebasestorage.googleapis.com/v0/b/githubs-30fab.appspot.com/o/screencapture-slack-541ac-web-app-room-ExQ30Lg6Ixto6GOMvTdR-2020-09-16-18_39_30.png?alt=media&token=adb7621a-1bad-4867-90bd-157bd16d5e36)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
